@@ -1,0 +1,1 @@
+All content within this repo is available under a Creative-Commons license.
