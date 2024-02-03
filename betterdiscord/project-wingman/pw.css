@@ -14,6 +14,7 @@
     --darkplus-links: #0061ba;
     --darkplus-emoji-picker-color: 210deg;
    --interactive-normal:  #e28c0b;
+   --primary-300:  #e28c0b;
    --Chat-Font-Used: 'Roboto';
    --Chat-Font-Size: 8px;
    --chat-font-weight: 600;
@@ -165,7 +166,7 @@
     fill: var(--darkplus-sec);
   }
   .sprite__294b3 {
-    filter: hue-rotate(var(--darkplus-emoji-picker-color)) !important;
+    filter: hue-rotate(var(--darkplus-sec)) !important;
   }
   .attachButton_b1db83 .contents-3ca1mk path {
     fill: var(--darkplus-sec);
